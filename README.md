@@ -1,7 +1,7 @@
 # Simple Interest Project
 
 ## Description
-Small repo demonstrating a shell script `simple-interest.sh` to compute simple interest.
+Small repo demonstrating a shell script `simple-interest.sh` to compute simple interest .
 
 ## Files
 - LICENSE (Apache 2.0)
